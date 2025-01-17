@@ -5,6 +5,7 @@ public class HolaMundo {
 	public static void main(String[] args) {
 		System.out.println("Hello World all the World");
 		System.out.println("Hola soy Mauro")
+		System.out.println("HOlaaaa")
 
 		int[] array = new int[4];
 		array[0] = 123;
